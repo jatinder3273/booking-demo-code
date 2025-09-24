@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+}
+
+.App {
+  padding: 10px;
+}
+
+.app-header {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 20px;
+  color: #333;
+  cursor: pointer;
+}
+
+.app-header p {
+  margin: 5px 0 0 0;
+  font-size: 14px;
+  color: #666;
+}
+
+.app-main {
+  max-width: 100%;
+  margin: 0 auto;
+}
